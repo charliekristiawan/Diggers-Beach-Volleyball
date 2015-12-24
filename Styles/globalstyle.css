@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Container {
+	background-color: #CCC;
+	height: 800px;
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Header_picture {
+	background-color: #FFF;
+	float: left;
+	height: 150px;
+	width: 200px;
+}
+
+#Header {
+	background-color: #FFF;
+	height: 70px;
+	width: 900px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 50px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000;
+	padding: 40px;
+	background-image: none;
+}
+
+#Nav_bar {
+	background-color: #9FC;
+	width: 100%;
+	float: left;
+	font-weight: bold;
+	background-image: none;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 20px;
+	font-style: normal;
+	text-decoration: blink;
+}
+
+#MainContent	{
+	background-color: #CCC;
+	width: 100%;
+	float: left;
+	font-size: 24px;
+	color: #000;
+	height: 550px;
+}
+
+#Footer	{
+	background-color: #FF9;
+	width: 96%;
+	float: left;
+	text-align: center;
+	font-size: 24px;
+	height: 8px;
+	padding: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
